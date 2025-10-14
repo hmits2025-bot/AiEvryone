@@ -1,0 +1,5 @@
+{
+  "name": "Responsive Video Course Page",
+  "description": "A single-page, responsive course webpage that allows users to switch between video lessons dynamically. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
