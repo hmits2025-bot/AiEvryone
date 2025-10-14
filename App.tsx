@@ -175,7 +175,7 @@ const App: React.FC = () => {
         </p>
 
         {/* Banner Image */}
-        <Banner imageUrl="https://app.leonardo.ai/generation/image/photorealistic-course-cover-design-modern-f19e4e0e-74a2-42f3-b8d4-2e1d96ccfd15" />
+        <Banner imageUrl="https://cdn.leonardo.ai/users/21752c7c-8061-4ab2-9940-b12266151e7f/generations/48387e6c-bdd7-4fdf-aae2-c144cd3b943b/segments/2:4:1/Flux_Dev_photorealistic_course_cover_design_modern_workspace_w_1.jpg" />
 
         {/* Main Video Display */}
         <div className="my-8" ref={videoPlayerRef}>
