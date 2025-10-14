@@ -121,6 +121,71 @@ const courseLessons: Lesson[] = [
     id: 23,
     title: 'Lesson 23: Questions and Answers',
     videoUrl: 'https://www.youtube.com/embed/uWns9dY7diM'
+  },
+  {
+    id: 24,
+    title: 'Lesson 24: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 25,
+    title: 'Lesson 25: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 26,
+    title: 'Lesson 26: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 27,
+    title: 'Lesson 27: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 28,
+    title: 'Lesson 28: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 29,
+    title: 'Lesson 29: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 30,
+    title: 'Lesson 30: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 31,
+    title: 'Lesson 31: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 32,
+    title: 'Lesson 32: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 33,
+    title: 'Lesson 33: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 34,
+    title: 'Lesson 34: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 35,
+    title: 'Lesson 35: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
+  },
+  {
+    id: 36,
+    title: 'Lesson 36: Auto GPT',
+    videoUrl: 'https://www.youtube.com/embed/Xx-ZCj57bNo'
   }
 ];
 // ---------------------------------------------------------------------
@@ -175,7 +240,7 @@ const App: React.FC = () => {
         </p>
 
         {/* Banner Image */}
-        <Banner imageUrl="https://cdn.leonardo.ai/users/21752c7c-8061-4ab2-9940-b12266151e7f/generations/48387e6c-bdd7-4fdf-aae2-c144cd3b943b/segments/2:4:1/Flux_Dev_photorealistic_course_cover_design_modern_workspace_w_1.jpg" />
+        <Banner imageUrl="https://cdn.leonardo.ai/users/21752c7c-8061-4ab2-9940-b12266151e7f/generations/48387e6c-bdd7-4fdf-aae2-c144cd3b943b/segments/4:4:1/Flux_Dev_photorealistic_course_cover_design_modern_workspace_w_3.jpg" />
 
         {/* Main Video Display */}
         <div className="my-8" ref={videoPlayerRef}>
