@@ -168,10 +168,10 @@ const App: React.FC = () => {
     <div className="font-sans text-gray-800 dark:text-gray-200 min-h-screen">
       <main className="container mx-auto p-4 md:p-8 max-w-6xl">
         <h1 className="text-3xl md:text-5xl font-bold text-center mb-4 text-gray-900 dark:text-white">
-          الذكاء الاصطناعي للتسويق الرقمي و تطبيقاته
+          ماهية الذكاء الإصطناعي، وما الذي يمكنه أو لا يمكنه فعله 
         </h1>
         <p className="text-center text-lg text-gray-600 dark:text-gray-400 mb-8">
-           بدءا من أساسيات الذكاء الاصطناعي والتعلم الآلي إلى تطبيقاتهما في العالم الحقيقي في مجال الأعمال عبر الإنترنت.
+          إذا تساءلت يومًا عن ماهية الذكاء الإصطناعي وكيف أصبح جزءًا من حياتنا، فقد أتيت إلى المكان الصحيح. الهدف من هذه الدورة التدريبية هو إزالة الغموض عن الذكاء الإصطناعي للجميع، بغض النظر عن خلفيتك العلمية.
         </p>
 
         {/* Banner Image */}
