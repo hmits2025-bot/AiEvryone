@@ -9,18 +9,18 @@ import type { Lesson } from './types';
 const courseLessons: Lesson[] = [
   {
     id: 1,
-    title: 'Lesson 1: AI & its Applications',
-    videoUrl: 'https://www.youtube.com/embed/CQhpM2skOL8'
+    title: 'Lesson 1: Definition of artificial intelligence',
+    videoUrl: 'https://www.youtube.com/embed/vnc7bi7ZPc4'
   },
   {
     id: 2,
-    title: 'Lesson 2: Skills required for AI',
-    videoUrl: 'https://www.youtube.com/embed/EafvnlUni-8'
+    title: 'Lesson 2: Artificial intelligence in daily life',
+    videoUrl: 'https://www.youtube.com/embed/-cJhh_94D6E'
   },
   {
     id: 3,
-    title: 'Lesson 3: ML & its Applications',
-    videoUrl: 'https://www.youtube.com/embed/UNT2LswmIRE'
+    title: 'Lesson 3: Why now?',
+    videoUrl: 'https://www.youtube.com/embed/n-TLItyqZKE'
   },
   {
     id: 4,
