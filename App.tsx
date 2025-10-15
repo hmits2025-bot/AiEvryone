@@ -74,8 +74,8 @@ const courseLessons: Lesson[] = [
   },
   {
     id: 14,
-    title: 'Lesson 14: Generative adversarial network (GAN)',
-    videoUrl: 'https://www.youtube.com/embed/WZpnB6SyNys'
+    title: 'Lesson 14: Linear Regression and Least squares',
+    videoUrl: 'https://www.youtube.com/embed/TVovqKTzbAA'
   },
   {
     id: 15,
