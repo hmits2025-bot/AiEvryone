@@ -24,53 +24,53 @@ const courseLessons: Lesson[] = [
   },
   {
     id: 4,
-    title: 'Lesson 4: Data Analytics lifecycle & Tools',
-    videoUrl: 'https://www.youtube.com/embed/LQoo5q-oUGM'
+    title: 'Lesson 4: How does AI work? (Data, Algorithms)',
+    videoUrl: 'https://www.youtube.com/embed/iC6MeIOl5HU'
   },
   {
     id: 5,
-    title: 'Lesson 5: Customer Segmentation Data',
-    videoUrl: 'https://www.youtube.com/embed/F9GKVlRM0dY'
+    title: 'Lesson 5: Classical programming vs. Machine learning',
+    videoUrl: 'https://www.youtube.com/embed/5aBOwfL7MUY'
   },
   {
     id: 6,
-    title: 'Lesson 6: Machine Learning in Digital Marketing',
-    videoUrl: 'https://www.youtube.com/embed/U2qfX6oGZhw'
+    title: 'Lesson 6: Modern AI (neural network, Deep learning)',
+    videoUrl: 'https://www.youtube.com/embed/hN2ktGzQ7Rk'
   },
   {
     id: 7,
-    title: 'Lesson 7: Deep Learning & its Architecture',
-    videoUrl: 'https://www.youtube.com/embed/dlQZU_cGYA8'
+    title: 'Lesson 7: Rule-based AI vs. Machine Learning vs. Deep Learning',
+    videoUrl: 'https://www.youtube.com/embed/TV8Br0ealYU'
   },
   {
     id: 8,
-    title: 'Lesson 8: ML platforms & Algorithms',
-    videoUrl: 'https://www.youtube.com/embed/_J646Nv4hmc'
+    title: 'Lesson 8: Building an AI model',
+    videoUrl: 'https://www.youtube.com/embed/hlfiGPe5-6E'
   },
   {
     id: 9,
-    title: 'Lesson 9: NLP & Large language mode',
-    videoUrl: 'https://www.youtube.com/embed/jwOUNtYwh2Q'
+    title: 'Lesson 9: Data science vs. Machine learning',
+    videoUrl: 'https://www.youtube.com/embed/kg-xeI9r9RU'
   },
   {
     id: 10,
-    title: 'Lesson 10: Text Pre-processing & Tokenization',
-    videoUrl: 'https://www.youtube.com/embed/miZQR2SqPEo'
+    title: 'Lesson 10: Supervised learning: Classification, Regression',
+    videoUrl: 'https://www.youtube.com/embed/HKE6AvL6jGE'
   },
   {
     id: 11,
-    title: 'Lesson 11: Transformer ML Model,OpenAI and ChatGPT',
-    videoUrl: 'https://www.youtube.com/embed/I_TIRaLp7ZI'
+    title: 'Lesson 11: Unsupervised learning: Clustering',
+    videoUrl: 'https://www.youtube.com/embed/2is7cn45W54'
   },
   {
     id: 12,
-    title: 'Lesson 12: Website Meta Descriptions Using Python And BERT',
-    videoUrl: 'https://www.youtube.com/embed/OZIwkOBaaCQ'
+    title: 'Lesson 12: Reinforcement learning',
+    videoUrl: 'https://www.youtube.com/embed/_m3acL6iRGU'
   },
   {
     id: 13,
-    title: 'Lesson 13: AI tools in Digital Marketing',
-    videoUrl: 'https://www.youtube.com/embed/0lydviKkonw'
+    title: 'Lesson 13: Module summary',
+    videoUrl: 'https://www.youtube.com/embed/Ccmp4y_cG94'
   },
   {
     id: 14,
